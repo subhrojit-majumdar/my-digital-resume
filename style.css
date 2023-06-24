@@ -1,0 +1,27 @@
+*{
+    background-color: #FFF8D6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: #617A55;
+}
+
+h2{
+    background-color: #A4D0A4;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: #617A55;
+}
+
+hr{
+    display: none;
+}
+
+img{
+    border-radius: 8px;
+}
